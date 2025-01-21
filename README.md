@@ -1,23 +1,23 @@
 # Business Analytics Project
 Analysis of the main business metrics.
 
-The __goal of the project__: optimization of the marketing spendings.
+__Goal of the project__: optimization of the marketing spendings.
 
-The __interaction with the product__ is investigated using these metrics:
+__Interaction with the product__ is investigated using these metrics:
 
 * number of customers (DAU, WAU, MAU)
 * number of sessions
 * session length (ASL)
 * user retention rate
 
-The __consumers' behavior__ is analyzed using these metrics:
+__Consumers' behavior__ is analyzed using these metrics:
 
 * conversion time and conversion rate
 * number of orders
 * average check
 * LTV
 
-The __marketing strategy__ is examined using these metrics:
+__Marketing strategy__ is examined using these metrics:
 
 * money spent per source
 * customer acquisition cost (CAC)
