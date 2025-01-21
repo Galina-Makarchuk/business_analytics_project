@@ -1,4 +1,4 @@
-# business_analytics_project
+# Business Analytics Project
 Analysis of the main business metrics.
 
 The __goal of the project__: optimization of the marketing spendings.
